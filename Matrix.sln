@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix.WEB", "Matrix.WEB\Matrix.WEB.csproj", "{FFD9EE81-3705-4B9D-9BE5-C61C68552F9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix.BLL", "Matrix.BLL\Matrix.BLL.csproj", "{10A601EB-1EAB-4FD2-9926-75C1021C6339}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FFD9EE81-3705-4B9D-9BE5-C61C68552F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFD9EE81-3705-4B9D-9BE5-C61C68552F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFD9EE81-3705-4B9D-9BE5-C61C68552F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A601EB-1EAB-4FD2-9926-75C1021C6339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A601EB-1EAB-4FD2-9926-75C1021C6339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A601EB-1EAB-4FD2-9926-75C1021C6339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A601EB-1EAB-4FD2-9926-75C1021C6339}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

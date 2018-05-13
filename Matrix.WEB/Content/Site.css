@@ -22,3 +22,19 @@ select,
 textarea {
     max-width: 280px;
 }
+button {
+    color: darkcyan;
+}
+.body-content, table {
+    margin-top: 20px;
+}
+table, td {
+    border: 1px dashed darkcyan;
+}
+td{
+    padding: 5px;
+}
+#downloadFileInput{
+    display: none;
+}
+
